@@ -27,11 +27,6 @@ Antes de comenzar, asegúrate de tener instalado:
 2. ▶️ Inicia los módulos "Apache" y "MySQL"
 3. ✅ Verifica que ambos muestren un fondo verde indicando que están activos
 
-### Para MAMP:
-1. 🖱️ Abre MAMP
-2. ⚙️ Ve a Preferences > Ports y usa los puertos predeterminados
-3. ▶️ Haz clic en "Start Servers"
-
 ## 🗃️ Paso 3: Configurar la Base de Datos
 
 1. 🌐 Abre tu navegador y ve a http://localhost/phpmyadmin 
